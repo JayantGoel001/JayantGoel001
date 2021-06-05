@@ -1,0 +1,82 @@
+name: GitHub metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  push:
+    branches: "master"
+jobs:
+
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+  
+      - name: Personal metrics
+        uses: JayantGoel001/metrics@master
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "header, activity, community, repositories"
+          
+          plugin_lines: yes
+          plugin_music: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_topics: yes
+          plugin_topics_sort: random
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugins_errors_fatal: yes
+          config_timezone: Asia/Kolkata
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_stargazers: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 50
+          plugin_people_size: 28
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          repositories_forks: yes
+          plugin_skyline: yes
+          plugin_skyline_year: 2021
+          plugin_skyline_frames: 120
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 14
+          plugin_reactions_details: percentage
+          plugin_achievements: yes
+          plugin_achievements_ignored: octonaut
+          plugin_achievements_threshold: C       # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+          plugin_achievements_limit: 0
+          plugin_notable: yes
+          plugin_tweets_attachments: yes
+          plugin_support: yes
+          
+      - name: Personal metrics (detailed)
+        uses: JayantGoel001/metrics@master
+        with:
+          filename: metrics.detailed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "metadata"
+          plugin_gists: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_languages: yes
+          plugins_errors_fatal: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          config_timezone: Asia/Kolkata
+          plugin_languages_colors : "rainbow"
+          plugin_languages_details: bytes-size, percentage
