@@ -19,6 +19,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
+#         Don't Run this workflow on your master branch
           target_branch: main
           build_dir: dist
         env:
