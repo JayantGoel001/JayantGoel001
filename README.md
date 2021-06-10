@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
 - 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Need Help Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! I am happy to help.
+- 💬 Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
