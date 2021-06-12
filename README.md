@@ -295,4 +295,6 @@ Kotlin                   8 repos             ██░░░░░░░░░�
 
 #
 
+![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JayantGoel001)
+
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
