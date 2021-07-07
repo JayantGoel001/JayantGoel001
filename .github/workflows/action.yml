@@ -28,7 +28,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugins_errors_fatal: yes
           config_timezone: Asia/Kolkata
           plugin_stars: yes
           plugin_stars_limit: 4
@@ -72,7 +71,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_languages: yes
-          plugins_errors_fatal: yes
           plugin_pagespeed_screenshot: yes
           plugin_posts: yes
           plugin_posts_source: dev.to
