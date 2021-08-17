@@ -17,7 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, activity, community, repositories"
-          
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_lines: yes
           plugin_music: no
           plugin_isocalendar: yes
