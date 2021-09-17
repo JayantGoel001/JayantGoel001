@@ -38,7 +38,7 @@ jobs:
           plugin_activity_days: 14
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 100
+          plugin_people_limit: 200
           plugin_people_size: 28
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
