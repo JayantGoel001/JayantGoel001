@@ -76,10 +76,6 @@ jobs:
           plugin_pagespeed_screenshot: yes
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_people_user: .github.user 
-          plugin_posts_limit: 4            
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes   
           config_timezone: Asia/Kolkata
           plugin_languages_colors : "rainbow"
           plugin_languages_details: bytes-size, percentage
