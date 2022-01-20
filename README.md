@@ -268,7 +268,7 @@ HTML                     9 repos             ██░░░░░░░░░�
   </a>
 
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/cc.webp"/></code>
   </a>
   
   <a href="https://leetcode.com/JayantGoel001/" target="_blank">
