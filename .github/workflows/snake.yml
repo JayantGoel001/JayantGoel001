@@ -22,5 +22,6 @@ jobs:
 #         Don't Run this workflow on your default branch
           target_branch: main
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
