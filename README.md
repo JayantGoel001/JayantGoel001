@@ -1,19 +1,13 @@
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
+  <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <br/>
 <br/>
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
+<img align="right" height="250" width="400" alt="GIF" src="GIF/image.gif">
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
@@ -21,7 +15,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/house.webp" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/Slytherin_ClearBG.webp">
+- <img src="WEBP/house.webp" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="WEBP/Slytherin_ClearBG.webp">
 
 <br/>
 <br/>
@@ -44,16 +38,14 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-  </a>
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
 #
 
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -101,7 +93,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
@@ -115,9 +107,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<a target="_blank">
-  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 
 <br>
 <br>
@@ -216,56 +206,56 @@ HTML                     9 repos             ██░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
+  <img width="75%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="GIF/Handshake.gif" height="25px">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
   <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/cf.webp"/></code>
+    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
   </a>
 </p>
 
@@ -280,4 +270,4 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](WEBP/footer.webp)
