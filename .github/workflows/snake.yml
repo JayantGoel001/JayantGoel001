@@ -15,13 +15,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: JayantGoel001
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
 #         Don't Run this workflow on your default branch
-          target_branch: main
-          build_dir: dist
+          target_branch: master
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
