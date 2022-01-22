@@ -2,6 +2,7 @@ name: GitHub metrics
 on:
   schedule:
     - cron: "21 6,18 * * *"
+  workflow_dispatch:
 jobs:
 
   github-metrics-personal:
