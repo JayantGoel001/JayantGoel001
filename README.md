@@ -213,9 +213,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <h1>
   Connect With Me
-  <a target="_blank">
-    <img src="GIF/Handshake.gif" height="25px">
-  </a>
+  <img src="GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
