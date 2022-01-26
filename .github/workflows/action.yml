@@ -10,7 +10,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: JayantGoel001/metrics@master
+        uses: JayantGoel001/metrics@padding
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
