@@ -57,6 +57,7 @@ jobs:
           plugin_notable: yes
           plugin_tweets_attachments: yes
           plugin_support: yes
+          plugin_fortune: yes
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
