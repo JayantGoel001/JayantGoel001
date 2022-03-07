@@ -43,7 +43,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           repositories_forks: yes
           plugin_skyline: yes
-          plugin_skyline_year: 2021
+          plugin_skyline_year: 2022
           plugin_skyline_frames: 120
           plugin_reactions: yes
           plugin_reactions_limit: 200
