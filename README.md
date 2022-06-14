@@ -32,6 +32,10 @@
   </code>
 </p> -->
 
+<p align="center">
+  <img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="250px" width="250px"/>
+<p/>
+
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
