@@ -72,6 +72,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
           plugin_languages: yes
           plugin_pagespeed_screenshot: yes
           plugin_posts: yes
