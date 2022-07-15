@@ -58,7 +58,10 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_support: yes
           plugin_fortune: yes
-          
+    
+  github-metrics-detailed-personal:
+    runs-on: ubuntu-latest
+    steps:      
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
         with:
