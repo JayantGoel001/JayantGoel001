@@ -143,13 +143,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C139%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C140%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26,993 Contributions in the Year 2022
+> 🏆 27,087 Contributions in the Year 2022
  > 
 > 📦 10.0 MB Used in GitHub's Storage 
  > 
@@ -159,6 +159,48 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+🌆 Daytime    249 commits    ███████████░░░░░░░░░░░░░░   44.15% 
+🌃 Evening    129 commits    █████░░░░░░░░░░░░░░░░░░░░   22.87% 
+🌙 Night      118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.92%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       119 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1% 
+Tuesday      90 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
+Wednesday    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
+Thursday     36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Saturday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    13 hrs 52 mins      █████████████████████████   100.0%
+
+🔥 Editors: 
+Browser                  13 hrs 52 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+JayantGoel001.github.io  13 hrs 52 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  13 hrs 52 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -172,7 +214,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 03:23:14 UTC
+ Last Updated on 06/09/2022 03:36:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
