@@ -1,0 +1,23 @@
+name: Update fork star
+
+on:
+  push:
+    branches:
+      - master
+  fork:
+  watch:
+    types:
+      - started
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: This repo has x stars y forks
+        uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          template: "JayantGoel001's profile with <starCount> stars ⭐ and <forkCount> forks 🎉"
