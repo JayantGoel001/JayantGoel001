@@ -20,4 +20,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: "JayantGoel001's profile with <starCount> stars ⭐ and <forkCount> forks 🎉.\n https://jayantgoel001.github.io"
+          template: "JayantGoel001's profile with <starCount> stars ⭐ and <forkCount> forks 🎉. https://jayantgoel001.github.io"
