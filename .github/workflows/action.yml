@@ -58,6 +58,8 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_support: yes
           plugin_fortune: yes
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
     
   github-metrics-detailed-personal:
     runs-on: ubuntu-latest
