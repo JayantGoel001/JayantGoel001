@@ -89,3 +89,5 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages_colors : "rainbow"
           plugin_languages_details: bytes-size, percentage
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
