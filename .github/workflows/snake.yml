@@ -11,16 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: JayantGoel001
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: master
-          build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
