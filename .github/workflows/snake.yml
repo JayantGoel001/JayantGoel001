@@ -16,6 +16,10 @@ jobs:
         with:
           github_user_name: JayantGoel001
           outputs: dist/github-contribution-grid-snake.svg
-
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: master
+          build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
