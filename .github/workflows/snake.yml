@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: JayantGoel001
-          output: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
