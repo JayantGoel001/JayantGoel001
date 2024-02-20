@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 764 users
+                            Followed by 765 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            102395 Commits
+                            102408 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -261,8 +261,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -321,8 +321,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 34.375px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">12</span>
+                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -397,13 +397,13 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">28</span>
-                                <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">29</span>
+                                <div class="bar" style="height: 45.3125px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">25</span>
-                                <div class="bar" style="height: 39.0625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">24</span>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -435,22 +435,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
-                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
-                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
-                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
                             <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
-                            <div class="label" title="scikit-learn is a Python module for machine learning.">scikit-learn</div>
-                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
-                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
-                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                            <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
+                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
+                            <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
                             <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
-                            <div class="label" title="Deep learning">and 1 more...</div>
+                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
+                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
+                            <div class="label" title="scikit-learn">and 1 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2823,10 +2823,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    764 followers
+                    765 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcCBQj/xAAtEAABAwMDAwIEBwAAAAAAAAABAgMEBREhABMxBhJBFFEHIoHwFVJhYnGS0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABoRAQADAQEBAAAAAAAAAAAAAAEAAgMRISL/2gAMAwEAAhEDEQA/AFRGSXesUOgObgVcJKvYf5nV5Xo8mqTvwJh9tAWnfU/bDbZPke97+dUdISh6rOP2IRv8g2vj3++dGXTzq2qpNXIjtOlXY243YL7m8+DjknVlx8Yu3T0g71R8PnotAfqbdcXJ9OUhTT7QQCMWKCCRxbSu2ivKeONaggBl2E/HWGafEbd72vTAAAjJBRbszc3H11nF078mQ6nhTqj8nHOtb0K8SHhdsoyDdZUKlvuA7RV3qbTgHRE31XIeqDUmlpLctvxbDgPggaESyhMdtQHzKAudHfQ0eO9eQuO1vNKbSFAHIynIvbjQPydI2f28YZT+o6rF6eQ05BZFQmKU66226FrsSB7fqBbP86Tk9lwyFH0z0ckk9lj+Y/f00xaPLdmPLkSCFOCzYxhKU8Af2OpMNBc2o3KsSLYP7E6ay6VFhDXOyBP/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBggE/8QALRAAAgEDAgMHAwUAAAAAAAAAAQIDAAQRBSEGBxITIiMxQWFiMlFScYGCocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhQXH/2gAMAwEAAhEDEQA/AE9Dp/SjtNsijJOPIV0aFeWNxciExPHscysdthTAi4VN7Y3EDuYg0ZTtfx2paaTBaQ6o9vHe29xEZAglwUBH33q3KHREUpkREoNq5xaWsu4UFD5b1DaYue5EVX0GKv2naRHCkQji8ILhT7f7RhbC2UAMsefmRmqLSK6iAoXzILaLwJqk0MnivGIgR83Cn+iazhYyrDdxySDrTPeHtT65zzu3LtWJ3a7jQ/pvWffWpeQ8l/UzGYNPq0dy/wBTbUOFxNGxBSR4ic5cgHIz+xAol2oXbqJxSZ4N1q+sdDvrO1mMcbzRnqH1jOc4P8RTbuyRO1Ox6e2j4hzM1K//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAUCAwABBgj/xAAkEAABBAICAgEFAAAAAAAAAAABAAIDEQQSBSExUSIyUmGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAADAf/EABkRAQEBAAMAAAAAAAAAAAAAAAABEQIDE//aAAwDAQACEQMRAD8A8rNFuH9UmMc8gM7PpHT4E0HFszHnSOVwa1t/V1d/pDYEscOZG+Zu8QPyH4WCt8TmGnilCl02dBx3JM3wyMSRpNRuF7j3aUZPGTRS6t1kbVhzPBSXVPLlmjs/IOXw+FjR0XR69WPVJW7Ekae9DXkbeELazY+1qZqyWZraDCDXk9K08nI0ANoABJt3fcVrY+0VnbY//9k=" width="28" height="28" alt="" />
@@ -3634,7 +3635,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8eba361</div>
+                                        <div class="sha">#54df0e8</div>
                                         <div class="message">Auto Commit</div>
                                     </div>
                                 </div>
@@ -3654,7 +3655,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c406d51</div>
+                                        <div class="sha">#2373f58</div>
                                         <div class="message">Auto Commit</div>
                                     </div>
                                 </div>
@@ -3668,14 +3669,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">JayantGoel001/LeetCode</span>
+                                        <span class="repo">JayantGoel001/Auto-commit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1295f5</div>
-                                        <div class="message">Time: 13 ms (66.66%), Space: 20.4 MB (32.85%) - LeetHub</div>
+                                        <div class="sha">#92eb0b1</div>
+                                        <div class="message">Auto Commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -3688,14 +3689,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">JayantGoel001/LeetCode</span>
+                                        <span class="repo">JayantGoel001/Auto-commit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bfacac7</div>
-                                        <div class="message">Attach NOTES - LeetHub</div>
+                                        <div class="sha">#c65ce87</div>
+                                        <div class="message">Auto Commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -3708,14 +3709,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">JayantGoel001/LeetCode</span>
+                                        <span class="repo">JayantGoel001/Auto-commit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8dd21b</div>
-                                        <div class="message">Create README - LeetHub</div>
+                                        <div class="sha">#bbfa0f5</div>
+                                        <div class="message">Auto Commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -4009,7 +4010,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.84 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.15 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4046,12 +4047,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 8.96k out of 130m users</span>
+                                    <span class="gh">ranked 8.95k out of 130m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">764</div>
+                                        <div class="value">765</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 764 users</div>
+                                <div class="text">Followed by 765 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4064,7 +4065,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.44113620807666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.65331964407939 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4199,7 +4200,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 147k out of 71.1m repositories</span>
+                                    <span class="gh">ranked 147k out of 72.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">281</div>
                                     </div>
