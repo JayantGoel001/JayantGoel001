@@ -37,14 +37,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.1151241021847" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="272.1151241021847" y="0" width="172.77326798444" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="444.8883920866247" y="0" width="7.927365401027663" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="452.8157574876524" y="0" width="3.6634876248620287" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="456.47924511251443" y="0" width="1.1190399280653271" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="457.59828504057975" y="0" width="1.0219174552997237" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="458.6202024958794" y="0" width="0.8712930083438271" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.4914955042233" y="0" width="0.5085044957767286" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.11456462853744" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="272.11456462853744" y="0" width="172.77291275945674" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="444.88747738799424" y="0" width="7.9282948705914995" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="452.81577225858575" y="0" width="3.663480092664801" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="456.4792523512505" y="0" width="1.11903762729887" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="457.5982899785494" y="0" width="1.021915354218838" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="458.62020533276825" y="0" width="0.8712912169495456" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.4914965497178" y="0" width="0.5085034502822312" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -68,7 +68,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>2.82 MB</div>
+                                <div>2.83 MB</div>
                                 <div>1.72%</div>
                             </small>
                         </div>
@@ -275,8 +275,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="126.43474148802018 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1219</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="126.53846153846155 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1220</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3172</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -293,8 +293,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="114.73529411764706 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">581</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="114.9327731092437 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">582</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1666</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -320,13 +320,13 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x627</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x266</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x267</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x231</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x176</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x176</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x171</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x139</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x122</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x123</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x114</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x112</span></div>
                     </div>
@@ -343,8 +343,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Reverse String</div>
-                            <div class="date">2 Jun 2024</div>
+                            <div class="title">Append Characters to String to Make Subsequence</div>
+                            <div class="date">3 Jun 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -352,15 +352,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Score of a String</div>
-                            <div class="date">1 Jun 2024</div>
+                            <div class="title">Reverse String</div>
+                            <div class="date">2 Jun 2024</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2024, 12:06:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Jun 2024, 00:06:52 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
