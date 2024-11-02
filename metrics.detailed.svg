@@ -296,14 +296,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.7644323311026" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="271.7644323311026" y="0" width="172.55060427346464" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="444.3150366045673" y="0" width="8.425499769284993" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="452.7405363738523" y="0" width="3.6568295084646176" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="456.39736588231693" y="0" width="1.1175977513558202" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="457.5149636336727" y="0" width="1.0206004463922576" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="458.535564080065" y="0" width="0.8682950298083301" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.40385910987334" y="0" width="0.5961408901267077" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.76337256803475" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="271.76337256803475" y="0" width="172.54993140116792" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="444.31330396920265" y="0" width="8.427260713399825" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="452.7405646826025" y="0" width="3.656815248420265" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="456.3973799310227" y="0" width="1.1175933932107478" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="457.5149733242335" y="0" width="1.0205964664944804" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="458.53556979072795" y="0" width="0.8682916438354245" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.4038614345634" y="0" width="0.596138565436559" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -534,8 +534,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="129.27463312368974 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1312</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="129.37316561844864 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1313</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3339</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -543,8 +543,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="193.59927797833936 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">489</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="193.99518652226234 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">490</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/831</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -579,8 +579,8 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x685</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x298</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x256</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x299</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x257</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x191</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x189</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x188</span></div>
@@ -602,8 +602,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Delete Characters to Make Fancy String</div>
-                            <div class="date">1 Nov 2024</div>
+                            <div class="title">Permutation Difference between Two Strings</div>
+                            <div class="date">2 Nov 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -611,15 +611,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Total Distance Traveled</div>
-                            <div class="date">31 Oct 2024</div>
+                            <div class="title">Circular Sentence</div>
+                            <div class="date">2 Nov 2024</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2024, 12:16:59 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Nov 2024, 00:13:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
