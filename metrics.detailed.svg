@@ -357,7 +357,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                         </svg>
-                        API error: 500
+                        Unexpected error
                     </div>
                 </section>
             </div>
@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="129.71043972479808 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1318</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="129.80885432246484 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1319</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3343</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="122.576 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">652</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="122.76400000000001 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">653</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1750</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -468,12 +468,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x686</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x687</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x303</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x257</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x191</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x189</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x188</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x189</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x150</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x142</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x121</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Best Time to Buy and Sell Stock</div>
-                            <div class="date">5 Nov 2024</div>
+                            <div class="title">Binary Tree Preorder Traversal</div>
+                            <div class="date">6 Nov 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Sort Colors</div>
-                            <div class="date">5 Nov 2024</div>
+                            <div class="title">Binary Tree Inorder Traversal</div>
+                            <div class="date">6 Nov 2024</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2024, 00:15:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Nov 2024, 12:16:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
