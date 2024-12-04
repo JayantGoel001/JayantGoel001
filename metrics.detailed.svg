@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="131.54149377593362 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1349</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="131.6390041493776 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1350</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3374</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="125.4755959137344 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">672</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="125.66231555051078 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">673</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1762</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -469,7 +469,7 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x710</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x306</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x307</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x261</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x194</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x191</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Adding Spaces to a String</div>
-                            <div class="date">3 Dec 2024</div>
+                            <div class="title">Max Consecutive Ones</div>
+                            <div class="date">4 Dec 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check If a Word Occurs As a Prefix of Any Word in a Sentence</div>
-                            <div class="date">2 Dec 2024</div>
+                            <div class="title">Rotate Array</div>
+                            <div class="date">4 Dec 2024</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 12:20:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Dec 2024, 00:20:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
