@@ -37,7 +37,7 @@ jobs:
           plugin_activity_days: 14
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 800
+          plugin_people_limit: 1000
           plugin_people_size: 28
           repositories_forks: yes
           plugin_reactions: yes
