@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.36783178590935 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1529</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.45767340251228 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1530</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3662</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="134.04981646565284 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">777</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="134.22233875196645 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">778</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1907</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -468,12 +468,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x827</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x828</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x351</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x304</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x225</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x220</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x217</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x218</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x173</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x168</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x140</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Length of Longest V-Shaped Diagonal Segment</div>
-                            <div class="date">27 Aug 2025</div>
+                            <div class="title">Sort Matrix by Diagonals</div>
+                            <div class="date">28 Aug 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Area of Longest Diagonal Rectangle</div>
-                            <div class="date">26 Aug 2025</div>
+                            <div class="title">Length of Longest V-Shaped Diagonal Segment</div>
+                            <div class="date">27 Aug 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2025, 12:23:11 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Aug 2025, 00:21:00 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
