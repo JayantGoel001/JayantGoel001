@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.02771797631863 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1559</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.1162540365985 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1560</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3716</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="135.31039834454216 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">795</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="135.48060010346612 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">796</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1933</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -468,13 +468,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x846</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x847</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x358</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x316</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x238</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x225</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x222</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x175</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x223</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x176</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x169</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x143</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x138</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximize the Number of Partitions After Operations</div>
-                            <div class="date">17 Oct 2025</div>
+                            <div class="title">Maximum Number of Distinct Elements After Operations</div>
+                            <div class="date">18 Oct 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Smallest Missing Non-negative Integer After Operations</div>
-                            <div class="date">16 Oct 2025</div>
+                            <div class="title">Maximize the Number of Partitions After Operations</div>
+                            <div class="date">17 Oct 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2025, 00:18:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 18 Oct 2025, 12:18:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
