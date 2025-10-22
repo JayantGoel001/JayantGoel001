@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.1074979844128 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1562</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.1959150765923 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1563</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3721</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -451,8 +451,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.90763968072976 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">229</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="86.28278221208666 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">230</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/877</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -468,15 +468,15 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x848</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x849</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x359</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x317</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x238</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x225</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x224</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x225</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x176</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x170</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x144</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x145</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x139</span></div>
                     </div>
                 </section>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Frequency of an Element After Performing Operations I</div>
-                            <div class="date">21 Oct 2025</div>
+                            <div class="title">Maximum Frequency of an Element After Performing Operations II</div>
+                            <div class="date">22 Oct 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Final Value of Variable After Performing Operations</div>
-                            <div class="date">20 Oct 2025</div>
+                            <div class="title">Maximum Frequency of an Element After Performing Operations I</div>
+                            <div class="date">21 Oct 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 12:24:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Oct 2025, 00:23:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
