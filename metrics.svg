@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 1102 users
+                            Followed by 1103 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            93979 Commits
+                            93980 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,22 +269,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
-                            <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
-                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                             <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
-                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
-                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
-                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
-                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
-                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
-                            <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
-                            <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
-                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="scikit-learn">and 1 more...</div>
+                            <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
+                            <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
+                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
+                            <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
+                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
+                            <div class="label" title="scikit-learn is a Python module for machine learning.">scikit-learn</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
+                            <div class="label" title="Java">and 1 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2689,10 +2689,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    1102 followers
+                    1103 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMRAAQFBhMhMRJBUWEHIiNxsTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQUG/8QAHxEAAQQCAgMAAAAAAAAAAAAAAgABAxEhMQQSEyJR/9oADAMBAAIRAxEAPwBAxrrjYj/c0T3wrwDzzTW4QgbrgQAT8nqtuLx0thWyuD6xRLWmJt0aTXbt2dvcFLi5vWQpZDvh1MQQJ/U9SZrcMXFqba56PrIWdJJzmLuGXXyDLbZICoICvnmk64S4h0gprZprUV8UWNnvwneWyDAJCCAYBPoD/aPvWqA4QpIUfeKLH5D2lyVC9K04S0YLbcbtw2OA268QP3yofypp9ScfdP5xwYx38DyihTbjnAcnnjuOu6f8HcuFC2z4lKBCZHVR/WV6/faiulPLgtr8E+HECaWYl9Q+LVui2A0mxhy4/flBvUylLTafsaB9jzJNd3G1unxt0qHuomaW9LX1wvJPNuuFxC2zIXz11R95tJcPdUfVqZWUSIsuv//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwQFAgb/xAAqEAABAwMDAQkAAwAAAAAAAAABAgMEABEhBRIxBgcTFBUiQVFhcUKx8P/EABgBAQADAQAAAAAAAAAAAAAAAAECAwQF/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhMRMiUf/aAAwDAQACEQMRAD8Age8BLlwpLKfD7t7hBJXe9+APf7+6r8wa02GhiapwNEgNpuAALE2umxtz+kn9q/o7TmdH01Ed5EaYVmwceayBfA5+a3Y7DBioTK0KGySokM7Qu4+f981yAS2hdS3xfTOIHUDsWKstvB1DrYAaePeIxkW+s35o3kzS88pfiUsE42n0cYva31TYNPhuaYsMQorOxu3pYAKRb2JH9UXzeitPlSFO7ZGceh6wqa2gpjAJfJc5KMNyQZG9qG0m6XVDBFrm35Wb2c9SydZ1+XGlORpWmRkgtywz3ZcvjZycYPJ9qOeqEebCHKlqWVpQRsSbJOfcUh9kUFiOxJU2k/xwTjitqIieoHYMxOzGp7UonlxZYSASm1iDR65CkbzkV6GckNR/RjFZ6SSOTRlxhuxRqn//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUAAgMG/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBQYSIRMiUZEVMjFBQnFygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAERAgMhUf/aAAwDAQACEQMRAD8AtwqKg325FsdxR6VJCh8hTEjShM8+hj+81XvJvBY3EoPaxkj4og3zDNqO+LiW1bEkLRopI9GQB0T+WTmr04Z4y3X8EjXtyfTddt9OMEeJYxIZZJeAAL8KtMgzRfvOxTdG7XiSaSJ4oEjjYLzTOOfft+JpFtJJ5bK2dyvkaJS/8sd0+brYuvN5Sp5Pc+9LGKyuLa0byTupT1AgD/aJrrV7m4vrieaV455mLtxOAcnNVtZ1i81PVYUvHWRUbAHAe9bO2XZgiKT0OIxjiesVGwnkOeq6nf2eq+Z5JraWSOOToFMjgPmlrZupS3O3LOW/VFnKn9XHK56OP2xRVNJJdyB7qR5X+zk5yePtWLGMfc3zRlwUP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAADhElEQVR4nGNgGApAUFBQRlhYWJZuFhobGztZWlp60c3C0NDQ9Li4uGK6WVheVtrd0tIym6qGKisrGzMwMDBik5s5Y9qmVSuXn6CaZSwsLGxz587eFxDgn4JNftfO7TfPnjn1gYmJCauDSAJcXFxira0tC65dvfz/4oVzP5ydnfxhcnx8vMJCQkKily9d+AmS19HRMZGTk1MVERGRZKAEMDExMU+bNnWzm5trGExMU1PD+MD+vU/MzEztQZaB8OWL538dPXLojYeHB1wd2UBWVlYdmb9xw/pL7W2tC5ycnPyhFv6bPn3qzqtXL//18fGJZKAmEBEREb129cr/mprqKYmJiaUgNsjC1pbm+YsXLzocGBgYT1UL+fj4+K5eufTn+LEjb2bOmL4TZOH1a1f+rVyx/Livr0+Eq6srPJ7JBgICApKmJiYuUVGR+ba2tp7Tp03bBIs7kGUgfOni+Z+LFi041NhQPychIb7Uzs7OV1ZWVo2ZmZkVr+H8/Pzivr6+caWlJb2zZ83cffDA/peQYIP45OiRw6+0tbVMp0+btuHa1ct/YRai42sgfPXK/wvnz33ftHHD5f6+3tW5uTktXl5ekQICAiIolnJycnJpamrqeXt7ReTm5jRNmNC/atOmjVcunD/349q1K/+PHD70OjgoMM3ExNi2pblp4dkzp7/CfAvzOciykydPvF+6dMnhurraKeFhYWmGhoaWvLy8vCQVArq6utZurq7BSYmJBdu2bb1ZWVkxRV9fz2bypIkbQRYdPLD/oYODvZeUlJQCIyMj5YVBYmJieWpqahWIPW/unD0gX507e/qLvr6+1alTxz+ePHHsBQM1QVRUVP6e3bvus7GxsVdVVU2GZov/oaGhyZs3bbi2evXKY8jqGRkZWSiyMDQ0NA1kQUND/ezIyIhsWMb39fWNPH/+7HdPT89wmFpWVlYOa2trH4os9Pf3j1+1csWprVs2XTywf99TkGUgS3fv2nE7OjoqB9my+vq62Tt3bL8Hyh5kW8jGxsbKzs7OBkoPhoaGJqCscfbM6U+8vLwCyMFoZ2sbvHfvnsdXL1/6k5+X187JycnPQA1w5PDBJ+vXrT2HTU5FWVmvuKiwi4GaYP68OTt7e3uX4ZLn4eERo6qFlRXlfdnZ2Y0M9ALBwcGp3l5eUXSzUFdX11ZTU9OEbhZycnIKcnBwcNHNQkoAAJuHtAINcHjbAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
@@ -3692,7 +3693,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQBBgcF/8QAJhAAAQQBBAAGAwAAAAAAAAAAAQIDBBEABRIhMQYTQVFhkRZxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREBAQEAAwAAAAAAAAAAAAAAAQADAhEh/9oADAMBAAIRAxEAPwDeQeLOZr4w1jX/AMmkR9O1BcGHFCA15LCXS84UBR336c0APY5oki/LFe+UvxzpapUrT3W0DfZCilIJPVDn+5Oih5VkDy6a2aDLkTdFhSZqENyXGgXUtngL9a+M6GKQHUqhtAADYNpAFAEcEfYOM3lFDJLV5kkJvhIvBMgTdOaEgG+OQaIIPYPpgYCy48N9Heefo4xBSBHSnsJUUC/bcMSgJMdbYDiyHFWoqrk18Ad1f7x+8XUAtxtCgCnusInrEv/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYFBwABA//EAC0QAAIABAQEAwkAAAAAAAAAAAECAAMEEQUSITEGEyNDQVFxIiQyYYGRwfDx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIGBAX/xAAhEQACAgEEAgMAAAAAAAAAAAABAgADBAURElEhcRRBYf/aAAwDAQACEQMRAD8ApZZKh1sstvamb0pP7+IiazEKanKogkvdJd+hbKRqRqf7DCiqctgPifvtFfVylKpxYjX1jmYwFjEGW+tu2JWrIB599DuNeHTJVWEmIEILPcCnvbT5GBsRlANT306K9or5/f1jnwkAGZmygFrXMwpfQ+USWIiWDT9MHor3CfOA54OQI+MvycVbH2BPv8gU/ioiV7uZvN5hNny5bH0ELtdXTq2YHnvnYLlGmwgQEg6RvfeN1dKV+VElczVMrLHG5yR19SZw7HJ9JypbOxky9lWwIvv4QXWcRtNaXYTCEQJqw8PpC0NYy0BqK2O5EarV8ulBWrnaf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUGBwgB/8QALBAAAQIEBQIEBwAAAAAAAAAAAQIDAAQFEQYSITFBEyJhcbHBBxQjMkJRcv/EABgBAQADAQAAAAAAAAAAAAAAAAQBAgMF/8QAHREAAgIDAQEBAAAAAAAAAAAAAAECAxESIQRBYf/aAAwDAQACEQMRAD8A0JmjOFVxLjqsVSdW3VEU1Es8sJb6wZQAhZB0/Iac3jRWaKVx1KO0GpPpcZlg28pbjLzzNy6Fbi/O59YBU/wdGtN9ZZXw4rM/XMJSc7VQ182orQpTX2OZFkZx52iQIX3u/wBewhDgmRfpuHZdmbabZmDncU03ayLm4AtptaGm6lHxirfSMYD6Wlpx76mtthHcU0iVr1MXIzSGnGyQvuTcg8FB4PjA0gTkSrnPb0hjP9llJ3sY6HlgtUGtk9gJ9kMyqChOQJ0t4cGFzTl2wr96w6WOohSVagt+0R5pR6afKD+qCrlsvprTLmD/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgUCAwT/xAArEAABAwMCBQEJAAAAAAAAAAABAgMEAAUREiEGMUFRkRMHFUNxgbHB0fH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMhIhH/2gAMAwEAAhEDEQA/AGaEjtUQzpb1ymJZIbYjHAaLWfW779NziqdwuDNuiGRIzoG2Ejcmj9iTKkWy43Nt9YDjjiwlXNvly+gqo02sNH2KfQpZGXB2roUBmpdkuLVwyUJKFtnBBNU1ZzQQH1qCHtAUfcGx+KCfBrXwZOS5wncU9UDPkY/FZXRoSLS4l5S1j0Ne566dWfNBI9wlQI7aYjpbRKOh1IAwoU2uQi6OjLgiWVXiW1yGnP2/dNlKGedC+Fm0oekaRjUkJPypS2kY22/lQm9HVR5P/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3903,7 +3903,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
