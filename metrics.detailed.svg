@@ -357,7 +357,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                         </svg>
-                        API error: 500
+                        Unexpected error
                     </div>
                 </section>
             </div>
@@ -424,9 +424,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.97715196599364 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.82961783439492 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1590</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3764</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3768</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -442,18 +442,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.13214285714287 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="135.9240957717779 329"/>
                                     <text x="60" y="50" dominant-baseline="central">811</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1960</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1963</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="87.33858267716535 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="87.24044943820226 329"/>
                                     <text x="60" y="50" dominant-baseline="central">236</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/889</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/890</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2025, 12:22:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Dec 2025, 00:20:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
