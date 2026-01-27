@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="139.27838827838826 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1618</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="139.36446886446888 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1619</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3822</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.57536304456687 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">829</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.74011016524787 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">830</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1997</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -492,7 +492,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Container With Most Water</div>
+                            <div class="title">Binary Tree Maximum Path Sum</div>
                             <div class="date">27 Jan 2026</div>
                         </div>
                     </div>
@@ -501,7 +501,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Trapping Rain Water</div>
+                            <div class="title">Kth Smallest Element in a BST</div>
                             <div class="date">27 Jan 2026</div>
                         </div>
                     </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2026, 12:32:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Jan 2026, 00:35:49 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
