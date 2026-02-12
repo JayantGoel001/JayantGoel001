@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="139.59134740682825 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1628</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="139.67709147771697 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1629</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3837</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.5226932668329 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">832</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.686783042394 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">833</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2005</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -469,8 +469,8 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x904</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x371</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x341</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x372</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x342</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x254</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x236</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x236</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Summary Ranges</div>
-                            <div class="date">11 Feb 2026</div>
+                            <div class="title">Valid Parentheses</div>
+                            <div class="date">12 Feb 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Balanced Subarray II</div>
-                            <div class="date">11 Feb 2026</div>
+                            <div class="title">Longest Balanced Substring I</div>
+                            <div class="date">12 Feb 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2026, 01:06:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Feb 2026, 13:08:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
