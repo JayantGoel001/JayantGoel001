@@ -424,9 +424,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="141.18072289156626 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="141.14454126089186 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1674</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3901</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3902</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -442,9 +442,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.6609505144537 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.5935357492654 329"/>
                                     <text x="60" y="50" dominant-baseline="central">854</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2041</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2042</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Total Distance Traveled</div>
-                            <div class="date">14 Apr 2026</div>
+                            <div class="title">Shortest Distance to Target String in a Circular Array</div>
+                            <div class="date">15 Apr 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Distance to the Target Element</div>
-                            <div class="date">13 Apr 2026</div>
+                            <div class="title">Minimum Total Distance Traveled</div>
+                            <div class="date">14 Apr 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2026, 01:21:53 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Apr 2026, 13:44:41 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
