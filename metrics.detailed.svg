@@ -424,9 +424,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="141.8854378818737 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="141.81323155216285 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1694</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3928</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3930</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -451,9 +451,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="92.23308270676692 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="92.0353697749196 329"/>
                                     <text x="60" y="50" dominant-baseline="central">261</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/931</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/933</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Number of Jumps to Reach the Last Index</div>
-                            <div class="date">10 May 2026</div>
+                            <div class="title">Separate the Digits in an Array</div>
+                            <div class="date">11 May 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Cyclically Rotating a Grid</div>
-                            <div class="date">9 May 2026</div>
+                            <div class="title">Maximum Number of Jumps to Reach the Last Index</div>
+                            <div class="date">10 May 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2026, 15:38:41 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 May 2026, 14:50:44 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
