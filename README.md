@@ -142,7 +142,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C427%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C432%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -150,7 +150,7 @@
 
 > 📦 14.2 MB Used in GitHub's Storage 
  > 
-> 🏆 939 Contributions in the Year 2026
+> 🏆 945 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,45 +158,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19193 commits       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-🌆 Daytime                31017 commits       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌃 Evening                35730 commits       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-🌙 Night                  20478 commits       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   14815 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  14821 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                15488 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Thursday                 14600 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   14496 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 15781 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Sunday                   16417 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    18 hrs 17 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   18 hrs 17 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-JayantGoel001.github.io  18 hrs 17 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      18 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -210,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 05:10:34 UTC
+ Last Updated on 18/05/2026 05:25:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
