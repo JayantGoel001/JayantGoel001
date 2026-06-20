@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -269,21 +269,21 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
-                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
-                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
-                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
-                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
-                            <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="scikit-learn is a Python module for machine learning.">scikit-learn</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
+                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
+                            <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
-                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
                             <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
+                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                            <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
                             <div class="label" title="JSON">and 1 more...</div>
                         </div>
                     </section>
@@ -310,13 +310,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 369 days
+                            Current streak 370 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 369 days
+                            Best streak 370 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2280,29 +2280,34 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.510204081632653)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.510204081632653)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.63265306122449)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.63265306122449)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.755102040816325)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 10.142857142857142)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
                     </g>
@@ -2531,13 +2536,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                6
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2598,6 +2598,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                20
                             </div>
                         </div>
                     </section>
@@ -2607,13 +2612,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                6
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 7
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2674,6 +2674,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                20
                             </div>
                         </div>
                     </section>
@@ -3616,7 +3621,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYEBQP/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMUEiUWEHE3EUM5Gx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAeEQABBAIDAQAAAAAAAAAAAAABAAIDERIiBBQxIf/aAAwDAQACEQMRAD8AV1S46f22vX8V4OOOHlaSAfJouZu1+ebLqJUrYjtX2+B+eK5ElqTdbwZOonpEhwYDbTshDKAjrgd58nFUnkirpSwxGV2ITC9EdKvRnn3FaGbYtTYKpKUn220ewNTXm0xGreS1K/T5Q26oLWtaN52c59sVtZ15ctgzEY/k0dhqW/Q0V2JuqrPb20NCSS0Wy4G2jxkHAGMefmi/Wd6jXe6ImNx5MPCSFKSoOLdHhGMcdn/eqqdeoQn6cWFbbaELcfipUpKQCR9sq/uoBx1YLatxJz5qeMZD6nOkLHWFS2dq1zZLaZ8yRDbXwn05AHjPRqxg6Bt5aUsXFK2VKJaLMVTg29cn3yDRTOfWpttJ24/FKrWpZ8K325hsMLSmK3ytGT18GiSMN8WW7+r/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwEDBAUGCP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEyExBxJBUWGBFCJx8HKRof/EABcBAQEBAQAAAAAAAAAAAAAAAAQBAgP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDBBEhMQUSE1Hx/9oADAMBAAIRAxEAPwDnSNEU8sADEtUdmLdUlMgN30w423camxtuRwD/AKMGTpD07i1OkT6tmDVZhaKhHU3YHuHLm/gW+d/TAvpVOdrOZpLUFyO6G31HWcUQ2RchPjztjqypa8lsWSFgwkWdJgJiu0EwZBSy7rRykONOgWDjaxdB/ojbFGpkpNrYJ8en90iPRJbiBJBU0FnZAcKyQj2G9r/jGZqdHeiznmHmy062opUladwcV87CBfangeNaR26i5may1lNykQFAVCS1pMR2jcob4+Bbb9vgH9L3mYc6ouy3tOO2WwpfPJsP33xAqs2RMclTpTqnZTiSpTiub+3pimgOLbpspTa1JKXEq2PJHF8A4+A0ke7lLr5RK+xGET855ij5kW1U2x2PqYQ26NHTOojY/ncc/HjCyOodMnpYXXMrIqM9tpLTkr6soLtvJHbzhOlTzdXoVRYqsOLLR2OSAVoKSlQsNu0iw+48Y0+UMp0GrURqXMpjZeWpQPa64Bsf5YHU1ERd1kBx6+hNiicWDqV//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECBAYHA//EAC4QAAEDAgQEAwkBAAAAAAAAAAECAwQAEQUGITESE0FRFCORByIyQlJxc4HB8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMFERUhMUH/2gAMAwEAAhEDEQA/AL6/FnMNhSIEd49UpkAEeotUF7F3o82NEewzgkSb8tIkIN7C512FSUFo7tNn9Vl/tGxF+Fm2F4eTybgIYTsAu4ud+t7de1Jcpax1qTOMqHe5qglzOsBpH3ltmn84/Mwxf8wNCXsx4fFjNvSHw0HE3/1qCv59wtLhDSpDqfqQk2qfK2n5Hx9S+mZ3hGb8cnTS2h4uEC4bvwC/cn+V1zLmaZBk4I5PdhSltqcW6lthCy0DYEa63I1tp071U8nhTmNFBWpPlnVNgaL5+YbMaArgSFKQ8skDc8CTQJWt+hK6Zl9h3GMR8RhwMRqOthy/MdJPNQbaLBB379aoC8QmtkBL7DgIvxGyz60oUSGzc/Dtc22psIc5Lij7vmEWAH9rIG0ISxM//9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EACcQAAEDAwMEAQUAAAAAAAAAAAECAwQABREGEyEHEjGBkUFhcaHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAxECEjFB/9oADAMBAAIRAxEAPwBVnvM26A/MkK7GGWy4o/YUGzOuE5u5lTFojm3IVghbh3CPyOAfVMXUWzyb1oy5wYDgbkuN5ST9SCDj3igl2wMW61RGn3Ww2WgXEqSCS6RyfnNWXDPHHuNOhdUwdY2kzYKVtLbV2OsueWz/ACt9TPNSPRuwx7Tp2RIYXuGa9uKPGBgY4x7PurtSeaMuiNUd3XmmWip5QQgeSTQT1ItZN+dVZ39pt3kpLYWAT5PPjmqjVtzlO3dEdTmGUHhI9Vk3IlyQpSiSVYz8UrvwIpKyKnpveIcTT8S2SnNqS1kEqGA4SSc/urVSgTnNCskbbWUcHitSJfLjGa2mZKwhJ4GarqRcls//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EAC4QAAEDAgYBAgMJAAAAAAAAAAECAwQFEQAGBxITITEiQVFhoQgUFSQygZGx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFB/9oADAMBAAIRAxEAPwB0S4kj2+uA/OWuMekZgk0+lU1E1uI6WnnXHtm9Q6IRYHwffDYx2MT9FyHk+n1mSmo1aOiY5JfaS080hziPIdjjm6422t5FsZLOi9FzT3N9MzxQfxGlhbZbVxvsujtpywNvmO/OO26z6z4xmNMMpxMsprb0F9p5uZKBHE2EIHGgJNgOv18mNa7u3n0n+MDFBPqvqycoyzSKMw09U9oLrrvaGbi4Fh5NiD8PHnAxDm1GvT6pX2swxorpVyzkywgOFIQBvbQRYnsiw8dY4OqE193U/MXIvd+cdR38ANo+gGM6XFbLX9O3db2vjdSsIbHjTfVBdCp0SBxuP05oWKX7BwEm5LZ9wb37+mKAiT01OIxMiv72HkBSD8sQxIlvNwNyFWO1tf7i3+nFNfZ3myJ2nTf3lwr4JK2kfJNkq/tRxFz0ZZ//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQUABAYI/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIAEQMxBEEhUQUGEiL/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBf/EAB0RAAICAgMBAAAAAAAAAAAAAAEDAAIEESExQRL/2gAMAwEAAhEDEQA/AOZNQhWOgZALeptOPjHDwjCjqqo39EEC62b7Oq8mojY9m/i4hyCedATFeQYI8+yYFRkzj8hshIYAVZFG68e/XUSDUIlqiphWfJNGNeL8u2PGiupYrVMDWtdHUUw1A1Fu4KaxR2s6lrm8puU4ZgAFFKo6EqQjcMgcSlrFh+rdz//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgcI/8QALxAAAQMDAgIHCQEAAAAAAAAAAQIDBAAFEQYhEoETFjFBUZHBFCJicXOEkqPR0v/EABcBAQEBAQAAAAAAAAAAAAAAAAQBAgP/xAAfEQABAwMFAAAAAAAAAAAAAAAAAQMhAhFRBBITQUL/2gAMAwEAAhEDEQA/AKu66GuVysq4KLmBkskOdu7YxzzkmpyXouVc727bG7463NiRY4eHQrCDhtCchfYScA86v16xYBAQWebbg9KBk6907D1Q2px0ccloR+mS0opIQCVZPiCc+PKj3r7Eo2z5ArXoe6W+/ouKJjTgbhJipbO24b4OMnmTisHtE39wNCNdGWUtthsjJ97HYfLHlTeJrJl/IEiEe/YubfrotOpmFDPtMPzX/mpvewXi02TntTcDB4NUOLP1HP5SdcJlu5OLi3VBLqSgukkk5BB2xncbVsuVo6zJWQI6vyqWulrhsyeBtkAJxg99JWQiQtxKyhpsZF+W0vxDyh6UUlfCMdZnx9wr+U56vwF4yhQ+SqHcscNtZSkOYHxVs5wf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBiExEhNBByIyFCMzkVGB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAQMG/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEEEhMxQf/aAAwDAQACEQMRAD8ASpN/t8dLQfahhbzSXG8OlHtIyDzS9FtdulRnbjcpzyppUDhpRHTngCserbCPq7f1lY7dsi7AHrdPbHAPFGrK/wByA0pZDK0ANqBAySP348UvsToNWNKX8jYwhO3mGuEhFyg951vIU4SNwCfeRjbbeqLoX0509qnT6LoiIhKHHFJT9lO4Hn41L9Ts2i7XjT4cExqEyyUXJ+E31vBeVq4O3BT/AFVa9L7mqBoyHHhPhphKnOgOI9xHWcE784xS3m2GmoOPZMg97WK1/IiIejauvJcDaES20ojhQzgIzgLA/dURn0shx2kCFL7A6QHEqZ7mV4+fI3NTXTjyo18svYSlCVZykDb8ldDankLh2GfIYwHW2FrST4OK0C0qwwwUOUIyQO9xbda3Jtrjh2fJdKycJGSOMn+BtxvQy0TZ9vgNxUIKQ3thaTms+mHFOz1yHD1POoKlKPk5FE7rMfTLU2lZCGyUpA8DqP8AtCWohGES1WfdBn//2Q==" width="28" height="28" alt="" />
@@ -3898,7 +3903,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
