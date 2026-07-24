@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="143.23305826456615 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1741</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="143.31532883220805 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1742</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3999</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -442,8 +442,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="140.1675442795596 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">890</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="140.32503590234563 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">891</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2089</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -468,10 +468,10 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x972</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x973</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x398</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x361</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x282</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x283</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x264</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x253</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x197</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Number of Unique XOR Triplets I</div>
-                            <div class="date">23 Jul 2026</div>
+                            <div class="title">Number of Unique XOR Triplets II</div>
+                            <div class="date">24 Jul 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximize Active Section with Trade II</div>
-                            <div class="date">22 Jul 2026</div>
+                            <div class="title">Number of Unique XOR Triplets I</div>
+                            <div class="date">23 Jul 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2026, 01:26:34 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Jul 2026, 14:25:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
