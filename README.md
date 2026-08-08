@@ -142,13 +142,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2020%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,333 Contributions in the Year 2026
+> 🏆 1,335 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -156,6 +158,51 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19387 commits       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                31179 commits       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌃 Evening                35835 commits       ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌙 Night                  20481 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   14883 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Tuesday                  14887 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                15557 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 14662 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   14564 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 15845 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Sunday                   16484 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    3 hrs 1 min         █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   3 hrs 1 min         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Meet – yfy-omzi-kmq      3 hrs 1 min         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -169,7 +216,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 04:01:32 UTC
+ Last Updated on 08/08/2026 03:04:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
