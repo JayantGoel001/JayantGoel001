@@ -424,8 +424,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="143.8202330771138 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1763</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="143.9018100669477 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1764</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4033</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -451,8 +451,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="96.62461220268872 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">284</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="96.96483971044468 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">285</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/967</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -468,11 +468,11 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x985</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x986</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x407</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x367</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x295</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x267</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x296</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x268</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x257</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x203</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x182</span></div>
@@ -492,8 +492,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Sum Game</div>
-                            <div class="date">23 Aug 2026</div>
+                            <div class="title">Stone Game VIII</div>
+                            <div class="date">24 Aug 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -501,15 +501,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check Divisibility by Digit Sum and Product</div>
-                            <div class="date">22 Aug 2026</div>
+                            <div class="title">Sum Game</div>
+                            <div class="date">23 Aug 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2026, 13:09:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Aug 2026, 00:41:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
